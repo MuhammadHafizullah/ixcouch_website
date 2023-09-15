@@ -1,0 +1,47 @@
+/* {import '@splidejs/react-splide/css';} */
+.hero{
+    background-image: url("./assets/hero_bg.png");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.working{
+    background-image: url("./assets/how_it_works.png");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.texture{
+    background-image: url("./assets/texture.png");
+    background-size: cover;
+    background-position: 0% 0%;
+}
+.try{
+    background-image: url("./assets/glow_bg.png");
+    background-size: cover;
+    background-position: 0% 0%;
+}
+.methods{
+    background-image: url("./assets/methods_bg.png");
+    background-size: cover;
+    background-position: 0% 0%;
+}
+.whats_in{
+    background-image: url("./assets/whats_in.png");
+    background-size: cover;
+    background-position: 0% 0%;
+}
+.feature{
+    background-image: url("./assets/feature.png");
+    background-size: cover;
+    background-position: 0% 0%;
+}
+
+.team{
+    background-image: url("./assets/teams_bg.png");
+    background-size: cover;
+    background-position: 0% 0%;
+}
+
+.card{
+    background-color:rgba(46, 45, 45, 0.6);
+}
